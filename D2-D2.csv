@@ -1,0 +1,876 @@
+Date,Maintanence_Activity,Cost,Bill Id,Class Label
+06/21/2016,Washroom Repair,169005,29566,Plannned
+06/11/2016,Tubelights Repair,272685,27435,Unplanned
+06/01/2016,Main Building Lamp Replacement,689581,26188,Unplanned
+04/25/2016,Main Gate Replacement,887458,29703,Unplanned
+02/19/2016,Chemical for artifact conservation,559103,31849,Plannned
+02/11/2016,Tubelights Repair,352220,30343,Unplanned
+02/10/2016,Main Building Lamp Replacement,535907,31565,Unplanned
+02/06/2016,Whitewash,377382,28983,Plannned
+02/05/2016,Ceiling Maintainance,598215,26272,Unplanned
+01/15/2016,New Furniture,813761,28202,Unplanned
+12/03/2015,Washroom Fittings,81827,30525,Plannned
+11/28/2015,Washroom Fittings,174785,26206,Plannned
+11/28/2015,Chemical for artifact conservation,97763,23752,Plannned
+11/03/2015,Lift Repair,628964,31383,Unplanned
+09/25/2015,Ceiling Maintainance,158371,24127,Plannned
+09/19/2015,Whitewash,663647,30264,Plannned
+09/16/2015,Wiring,31278,31403,Plannned
+09/12/2015,Broken Marbel Repair,661330,28549,Unplanned
+08/29/2015,Washroom Fittings,810676,24485,Plannned
+08/18/2015,Water Tank Service,752014,29341,Plannned
+08/18/2015,Garden Flowers,140693,24176,Unplanned
+08/04/2015,New Furniture,414351,24535,Plannned
+07/28/2015,Garden Flowers,158195,27025,Plannned
+07/03/2015,Garden Flowers,499398,28345,Unplanned
+06/11/2015,Gardening Instruments,785177,27422,Plannned
+04/10/2015,Gardening Instruments,492838,27117,Plannned
+03/02/2015,Chemical for artifact conservation,699948,26383,Plannned
+02/10/2015,Garden Flowers,199768,31220,Unplanned
+02/09/2015,Tubelights Repair,33027,27008,Unplanned
+12/29/2014,Main Building Lamp Replacement,852213,26118,Unplanned
+12/15/2014,Gardening Instruments,575623,25508,Plannned
+09/19/2014,Gardening Instruments,599388,26944,Plannned
+08/29/2014,Lift Repair,564283,24777,Unplanned
+08/25/2014,Ceiling Maintainance,375308,28733,Plannned
+08/11/2014,Table repair,464859,27062,Unplanned
+07/18/2014,Garden Flowers,239593,29616,Plannned
+07/02/2014,Broken Marbel Repair,248917,29603,Unplanned
+06/27/2014,Water Tank Service,355155,31358,Plannned
+06/18/2014,Ceiling Maintainance,145214,24442,Plannned
+06/05/2014,Ceiling Maintainance,513445,31717,Plannned
+05/30/2014,Washroom Fittings,53645,29434,Unplanned
+04/23/2014,Lift Repair,894311,27015,Unplanned
+04/19/2014,Flooring,24144,27621,Unplanned
+04/09/2014,Ceiling Maintainance,523911,30255,Plannned
+02/20/2014,Tubelights Repair,131411,25737,Plannned
+02/18/2014,Water Tank Service,49425,28701,Unplanned
+02/18/2014,Main Building Lamp Replacement,571889,23731,Unplanned
+02/06/2014,Main Gate Replacement,119195,29749,Unplanned
+01/29/2014,Chemical for artifact conservation,787558,31091,Plannned
+01/25/2014,Chemical for artifact conservation,692717,31733,Plannned
+01/17/2014,Wiring,512018,26655,Plannned
+01/11/2014,Flooring,844199,27567,Plannned
+12/24/2013,Main Building Lamp Replacement,21766,28315,Unplanned
+11/30/2013,Whitewash,256081,32328,Planned
+11/14/2013,Chemical for artifact conservation,647816,31946,Plannned
+11/11/2013,Lift Repair,475200,23547,Unplanned
+11/07/2013,Washroom Fittings,251526,31751,Unplanned
+11/05/2013,Whitewash,178614,30533,Unplanned
+11/01/2013,Ceiling Maintainance,185654,27503,Plannned
+10/28/2013,Wiring,211987,29422,Unplanned
+10/26/2013,Table repair,99849,28687,Unplanned
+10/14/2013,Wiring,172048,30605,Plannned
+09/10/2013,Chemical for artifact conservation,708508,32276,Unplanned
+09/09/2013,Ceiling Maintainance,788745,29871,Unplanned
+08/03/2013,Lift Repair,569169,24302,Plannned
+08/02/2013,Wiring,42401,31671,Plannned
+07/19/2013,Main Gate Replacement,214000,31276,Plannned
+07/08/2013,Garden Flowers,799279,29546,Unplanned
+07/04/2013,Main Gate Replacement,368979,23831,Plannned
+06/29/2013,Lift Repair,126513,28683,Plannned
+06/27/2013,Whitewash,727812,31490,Plannned
+06/22/2013,Water Tank Service,387676,30585,Unplanned
+06/18/2013,Whitewash,703074,27201,Plannned
+05/07/2013,Ceiling Maintainance,572599,31616,Plannned
+04/03/2013,Garden Flowers,631110,28515,Unplanned
+01/08/2013,Water Tank Service,824188,28029,Plannned
+12/28/2012,Washroom Fittings,530324,26801,Plannned
+12/27/2012,Wiring,435081,29027,Unplanned
+12/15/2012,Water Dispensor Repair,158613,29298,Plannned
+11/29/2012,Washroom Repair,258960,26789,Plannned
+11/29/2012,Washroom Fittings,730758,28186,Plannned
+11/26/2012,Ceiling Maintainance,57533,31912,Unplanned
+11/05/2012,Broken Marbel Repair,736870,27102,Unplanned
+10/27/2012,Broken Marbel Repair,600875,28336,Unplanned
+10/22/2012,New Furniture,833241,24324,Plannned
+10/09/2012,Wiring,676174,24923,Plannned
+09/01/2012,Gardening Instruments,496206,24637,Unplanned
+08/25/2012,Ceiling Maintainance,560740,26497,Plannned
+08/24/2012,Water Tank Service,841795,32321,Unplanned
+08/22/2012,Ceiling Maintainance,274980,28906,Plannned
+07/23/2012,Tubelights Repair,533669,26460,Unplanned
+07/14/2012,Ceiling Maintainance,403949,28916,Plannned
+07/10/2012,Chemical for artifact conservation,719398,29964,Plannned
+07/07/2012,New Furniture,403982,26103,Plannned
+05/29/2012,Wiring,48222,31423,Unplanned
+04/21/2012,Ceiling Maintainance,84650,25551,Unplanned
+04/19/2012,Table repair,338978,25043,Unplanned
+03/30/2012,Flooring,577872,26288,Plannned
+02/10/2012,Main Gate Replacement,681430,29177,Plannned
+02/08/2012,Gardening Instruments,340089,26452,Unplanned
+01/30/2012,Main Building Lamp Replacement,885743,23569,Unplanned
+12/24/2011,Washroom Repair,892399,29731,Unplanned
+10/22/2011,Chemical for artifact conservation,568776,26600,Plannned
+09/14/2011,Washroom Fittings,90391,29696,Plannned
+08/27/2011,New Furniture,98236,27387,Plannned
+07/12/2011,Chemical for artifact conservation,394140,25940,Plannned
+05/11/2011,Water Dispensor Repair,281615,31250,Unplanned
+04/27/2011,Flooring,183984,26706,Planned
+04/15/2011,Broken Marbel Repair,452376,28114,Plannned
+04/01/2011,New Furniture,691549,24651,Unplanned
+03/05/2011,Garden Flowers,671442,30331,Unplanned
+02/19/2011,Main Gate Replacement,599565,26029,Unplanned
+02/18/2011,Whitewash,104563,23598,Plannned
+02/05/2011,Washroom Repair,293231,24705,Unplanned
+01/25/2011,Washroom Repair,371201,26790,Unplanned
+01/20/2011,Washroom Repair,596276,29253,Plannned
+01/15/2011,Chemical for artifact conservation,753513,31462,Unplanned
+12/22/2010,Flooring,423541,31897,Unplanned
+12/14/2010,Wiring,708895,26662,Plannned
+10/09/2010,Main Gate Replacement,30334,26545,Plannned
+10/06/2010,Washroom Repair,215704,26460,Plannned
+09/18/2010,Tubelights Repair,698379,25953,Unplanned
+09/17/2010,Gardening Instruments,645570,26991,Plannned
+09/11/2010,Tubelights Repair,885206,30330,Plannned
+09/03/2010,Garden Flowers,667384,29406,Plannned
+08/31/2010,Ceiling Maintainance,137248,30377,Unplanned
+08/21/2010,Flooring,135581,25538,Plannned
+08/16/2010,Lift Repair,492235,31167,Plannned
+08/10/2010,Washroom Repair,820791,30377,Unplanned
+08/05/2010,Lift Repair,439528,28467,Plannned
+07/29/2010,New Furniture,459073,26719,Plannned
+07/20/2010,Washroom Fittings,687465,26716,Unplanned
+07/05/2010,Washroom Fittings,207284,29556,Plannned
+06/21/2010,Washroom Repair,165617,29341,Plannned
+06/08/2010,Water Dispensor Repair,394246,26412,Plannned
+05/25/2010,Lift Repair,341635,28712,Unplanned
+05/20/2010,Lift Repair,203620,24488,Unplanned
+05/10/2010,Washroom Fittings,235309,30530,Unplanned
+05/08/2010,Whitewash,45211,32119,Plannned
+04/15/2010,Chemical for artifact conservation,610871,24911,Plannned
+04/03/2010,Wiring,487977,24573,Unplanned
+03/25/2010,Ceiling Maintainance,785343,27013,Plannned
+03/17/2010,Tubelights Repair,504609,28405,Unplanned
+03/12/2010,Broken Marbel Repair,322915,29877,Plannned
+03/06/2010,Gardening Instruments,37947,28538,Unplanned
+02/12/2010,Lift Repair,294766,31843,Plannned
+01/20/2010,Table repair,578122,26473,Plannned
+01/19/2010,Whitewash,66268,31403,Plannned
+01/16/2010,New Furniture,631679,30712,Unplanned
+01/14/2010,Lift Repair,209189,30609,Unplanned
+01/07/2010,Lift Repair,663638,27343,Unplanned
+11/23/2009,Table repair,257792,26554,Plannned
+10/30/2009,Wiring,236501,26291,Plannned
+10/23/2009,Tubelights Repair,367629,26169,Unplanned
+10/08/2009,New Furniture,645182,24371,Unplanned
+09/26/2009,Main Building Lamp Replacement,180029,28070,Unplanned
+09/24/2009,Main Building Lamp Replacement,176945,25472,Plannned
+09/14/2009,Chemical for artifact conservation,600426,27470,Plannned
+09/14/2009,Gardening Instruments,399293,23770,Plannned
+09/10/2009,Washroom Fittings,531067,31634,Plannned
+08/26/2009,Chemical for artifact conservation,617270,30414,Unplanned
+07/16/2009,Main Gate Replacement,352574,27842,Planned
+06/13/2009,Wiring,560071,24827,Plannned
+06/12/2009,Water Tank Service,268699,30991,Unplanned
+06/06/2009,Chemical for artifact conservation,344913,25880,Unplanned
+06/02/2009,Wiring,71540,26798,Unplanned
+05/16/2009,Garden Flowers,377363,25629,Plannned
+05/11/2009,New Furniture,627999,25254,Unplanned
+05/06/2009,New Furniture,45585,24466,Unplanned
+05/05/2009,Garden Flowers,192408,31138,Plannned
+04/25/2009,Washroom Fittings,898494,27073,Unplanned
+04/24/2009,Wiring,40912,32128,Unplanned
+04/22/2009,Main Gate Replacement,377313,29901,Plannned
+04/17/2009,Main Building Lamp Replacement,223507,24273,Plannned
+04/15/2009,Ceiling Maintainance,410359,25022,Plannned
+04/01/2009,Flooring,39364,25979,Unplanned
+03/31/2009,Water Dispensor Repair,181804,26904,Plannned
+02/17/2009,Wiring,607356,31250,Plannned
+02/16/2009,Gardening Instruments,631665,28906,Plannned
+02/13/2009,Washroom Repair,644725,24443,Unplanned
+02/02/2009,Wiring,252721,23508,Plannned
+01/17/2009,Main Gate Replacement,281299,25766,Plannned
+01/07/2009,Tubelights Repair,83472,23654,Unplanned
+10/31/2008,Washroom Fittings,410472,31991,Plannned
+10/10/2008,Chemical for artifact conservation,223492,31093,Plannned
+10/07/2008,Water Dispensor Repair,221789,31490,Unplanned
+10/04/2008,Water Dispensor Repair,740780,24756,Plannned
+09/23/2008,Ceiling Maintainance,724169,25465,Plannned
+08/09/2008,Ceiling Maintainance,741981,31247,Plannned
+08/04/2008,Main Gate Replacement,817860,25674,Unplanned
+07/19/2008,Garden Flowers,694177,27779,Unplanned
+05/30/2008,Main Building Lamp Replacement,419441,24219,Unplanned
+05/28/2008,Ceiling Maintainance,677522,26110,Plannned
+05/21/2008,Broken Marbel Repair,288100,29095,Plannned
+05/16/2008,Chemical for artifact conservation,709972,31360,Unplanned
+05/12/2008,Table repair,686402,26181,Plannned
+04/11/2008,Whitewash,512603,25501,Unplanned
+04/04/2008,Water Dispensor Repair,187506,26131,Plannned
+03/03/2008,Wiring,354958,27039,Unplanned
+02/29/2008,Wiring,638506,23678,Plannned
+02/11/2008,Gardening Instruments,179229,30127,Plannned
+02/01/2008,Lift Repair,284332,29086,Plannned
+01/26/2008,Water Dispensor Repair,169020,25554,Unplanned
+12/14/2007,Washroom Repair,820879,29328,Unplanned
+12/04/2007,Washroom Repair,43282,24647,Unplanned
+12/03/2007,Chemical for artifact conservation,738258,26696,Plannned
+12/01/2007,Main Building Lamp Replacement,483994,27924,Plannned
+10/04/2007,Lift Repair,617744,28669,Unplanned
+09/24/2007,Chemical for artifact conservation,836718,31103,Unplanned
+09/14/2007,Main Building Lamp Replacement,253362,28246,Unplanned
+09/10/2007,New Furniture,754501,30843,Plannned
+09/07/2007,Main Gate Replacement,326929,24694,Plannned
+08/14/2007,Washroom Fittings,526420,25341,Plannned
+07/31/2007,Washroom Repair,185984,30992,Plannned
+07/28/2007,Whitewash,578437,26348,Unplanned
+07/17/2007,Ceiling Maintainance,340393,24758,Planned
+06/29/2007,Garden Flowers,185207,26886,Plannned
+05/29/2007,Washroom Repair,224484,32247,Plannned
+05/10/2007,Chemical for artifact conservation,181426,29624,Plannned
+04/24/2007,Water Dispensor Repair,211731,24216,Unplanned
+04/09/2007,Lift Repair,711310,27513,Plannned
+03/30/2007,Washroom Repair,867554,29097,Plannned
+03/12/2007,Chemical for artifact conservation,850348,28724,Unplanned
+03/10/2007,Tubelights Repair,106404,25255,Plannned
+03/01/2007,Lift Repair,222497,32148,Plannned
+02/27/2007,Whitewash,807454,23995,Unplanned
+02/21/2007,Wiring,159139,24418,Plannned
+02/19/2007,Gardening Instruments,176050,31079,Plannned
+02/15/2007,Washroom Fittings,43112,26550,Plannned
+01/16/2007,Broken Marbel Repair,406363,31951,Unplanned
+01/06/2007,Main Building Lamp Replacement,802235,29574,Unplanned
+12/21/2006,Broken Marbel Repair,848513,24636,Unplanned
+12/16/2006,Flooring,753142,30795,Plannned
+12/11/2006,Garden Flowers,469239,25024,Plannned
+11/13/2006,Water Tank Service,554038,30648,Unplanned
+09/15/2006,Wiring,469658,25769,Plannned
+08/31/2006,Tubelights Repair,307142,29818,Unplanned
+08/01/2006,Whitewash,253529,32169,Plannned
+06/30/2006,Main Gate Replacement,746560,23909,Unplanned
+06/03/2006,Whitewash,47646,26437,Plannned
+04/19/2006,Lift Repair,399439,24832,Plannned
+04/06/2006,New Furniture,887485,30871,Plannned
+02/17/2006,Tubelights Repair,250292,26243,Unplanned
+02/04/2006,Main Gate Replacement,426316,27253,Unplanned
+02/02/2006,Wiring,332918,27285,Unplanned
+01/30/2006,Gardening Instruments,258234,31817,Plannned
+01/17/2006,Lift Repair,692295,31737,Plannned
+01/07/2006,Lift Repair,611152,30094,Unplanned
+12/14/2005,Washroom Repair,699466,24105,Unplanned
+12/13/2005,Main Gate Replacement,182662,23491,Unplanned
+11/30/2005,New Furniture,620499,31707,Plannned
+11/16/2005,Washroom Fittings,685072,25683,Plannned
+10/03/2005,Washroom Repair,432330,24813,Plannned
+09/22/2005,Water Tank Service,844909,25147,Plannned
+09/15/2005,Lift Repair,52422,30958,Unplanned
+09/08/2005,Washroom Fittings,376003,24429,Planned
+07/14/2005,Water Dispensor Repair,728301,25336,Plannned
+07/09/2005,Water Dispensor Repair,603521,30737,Unplanned
+05/25/2005,Main Gate Replacement,302794,27645,Unplanned
+04/30/2005,Garden Flowers,171890,25940,Unplanned
+03/30/2005,Main Building Lamp Replacement,91473,25289,Plannned
+03/29/2005,Wiring,899452,27660,Unplanned
+03/23/2005,Table repair,527167,24218,Unplanned
+02/03/2005,Main Gate Replacement,103556,24518,Plannned
+02/01/2005,Lift Repair,557292,28071,Unplanned
+01/28/2005,Washroom Repair,186790,31165,Unplanned
+01/27/2005,Water Tank Service,757209,30838,Plannned
+01/12/2005,Main Gate Replacement,866334,28791,Plannned
+01/01/2005,Broken Marbel Repair,654235,26105,Plannned
+11/13/2004,Lift Repair,516792,27540,Unplanned
+11/08/2004,Gardening Instruments,249161,30784,Plannned
+09/30/2004,Washroom Repair,824159,31218,Plannned
+09/27/2004,Water Dispensor Repair,678250,25728,Plannned
+09/27/2004,Washroom Fittings,532768,29798,Unplanned
+09/18/2004,Broken Marbel Repair,423814,26747,Plannned
+09/08/2004,Whitewash,602509,31520,Plannned
+08/03/2004,Main Gate Replacement,369768,26310,Unplanned
+07/23/2004,New Furniture,685474,29006,Plannned
+07/17/2004,Main Gate Replacement,518669,30601,Plannned
+07/07/2004,Gardening Instruments,540278,29043,Unplanned
+06/30/2004,Broken Marbel Repair,349575,30627,Plannned
+06/28/2004,Ceiling Maintainance,527466,27013,Plannned
+06/18/2004,Water Tank Service,643461,27509,Plannned
+06/08/2004,Garden Flowers,649802,24641,Unplanned
+05/24/2004,Water Dispensor Repair,258801,30565,Unplanned
+05/13/2004,Broken Marbel Repair,306606,31250,Unplanned
+03/18/2004,Gardening Instruments,614657,28277,Plannned
+02/11/2004,Main Building Lamp Replacement,25090,29928,Plannned
+01/21/2004,Table repair,734711,24363,Unplanned
+12/24/2003,Ceiling Maintainance,193364,31244,Plannned
+12/05/2003,Water Tank Service,269560,29955,Unplanned
+11/06/2003,Water Tank Service,294851,25736,Plannned
+10/25/2003,Garden Flowers,152882,31148,Unplanned
+10/20/2003,Tubelights Repair,497319,25123,Plannned
+10/13/2003,Lift Repair,501239,25929,Plannned
+10/02/2003,Lift Repair,354384,29725,Plannned
+09/27/2003,Flooring,292628,26283,Unplanned
+07/19/2003,Broken Marbel Repair,398190,29019,Unplanned
+07/14/2003,Tubelights Repair,787562,32202,Unplanned
+06/23/2003,Water Dispensor Repair,434745,31448,Plannned
+05/13/2003,New Furniture,339042,29926,Plannned
+04/26/2003,Washroom Repair,200856,25714,Unplanned
+03/31/2003,Lift Repair,166560,27134,Unplanned
+03/01/2003,Washroom Repair,239816,25974,Unplanned
+12/16/2002,Broken Marbel Repair,825924,31588,Plannned
+12/11/2002,Tubelights Repair,393407,23766,Plannned
+11/28/2002,Main Gate Replacement,693037,25935,Plannned
+11/14/2002,Broken Marbel Repair,147044,27506,Plannned
+11/01/2002,Broken Marbel Repair,200587,27858,Unplanned
+10/24/2002,Washroom Repair,729078,27159,Planned
+10/14/2002,Washroom Repair,296796,28031,Plannned
+10/10/2002,Gardening Instruments,730881,25032,Unplanned
+10/02/2002,Whitewash,35537,30320,Unplanned
+09/26/2002,Flooring,134113,28654,Unplanned
+09/21/2002,Tubelights Repair,0,26072,Plannned
+09/13/2002,Ceiling Maintainance,412470,24910,Unplanned
+09/13/2002,New Furniture,338059,32310,Unplanned
+07/16/2002,Wiring,332983,23897,Plannned
+07/12/2002,Wiring,585679,27058,Unplanned
+06/11/2002,Broken Marbel Repair,245918,24925,Unplanned
+05/18/2002,Water Tank Service,892759,28929,Plannned
+05/07/2002,Chemical for artifact conservation,424932,29159,Plannned
+04/08/2002,Garden Flowers,109146,32282,Plannned
+02/21/2002,Flooring,206719,27295,Unplanned
+02/15/2002,Whitewash,768650,26186,Plannned
+01/18/2002,Washroom Fittings,457831,24778,Plannned
+01/17/2002,Gardening Instruments,897840,24819,Plannned
+01/03/2002,Tubelights Repair,39203,23686,Unplanned
+12/26/2001,Washroom Fittings,454859,29760,Plannned
+12/25/2001,Whitewash,343721,25736,Plannned
+12/22/2001,Tubelights Repair,556850,25739,Unplanned
+12/20/2001,Washroom Repair,786934,27627,Plannned
+12/20/2001,Chemical for artifact conservation,235700,31712,Plannned
+12/13/2001,Lift Repair,114185,26586,Unplanned
+12/04/2001,Water Dispensor Repair,238715,23763,Plannned
+10/17/2001,Whitewash,688539,29204,Plannned
+10/15/2001,Water Dispensor Repair,691916,29424,Plannned
+10/06/2001,Washroom Repair,772027,26434,Unplanned
+10/05/2001,Flooring,553908,30625,Unplanned
+10/01/2001,Ceiling Maintainance,695037,28562,Unplanned
+09/26/2001,Table repair,600631,25965,Plannned
+09/12/2001,Washroom Fittings,527176,28658,Plannned
+08/17/2001,Broken Marbel Repair,46363,30960,Unplanned
+08/15/2001,Flooring,729657,30017,Plannned
+08/01/2001,Garden Flowers,89174,27564,Unplanned
+07/26/2001,New Furniture,890893,32188,Plannned
+07/09/2001,Flooring,35260,26710,Unplanned
+06/26/2001,Chemical for artifact conservation,865243,31225,Plannned
+06/01/2001,Wiring,570766,30069,Plannned
+05/23/2001,Broken Marbel Repair,417775,26736,Plannned
+05/15/2001,Chemical for artifact conservation,648754,26049,Unplanned
+04/24/2001,Water Dispensor Repair,656319,27553,Unplanned
+04/23/2001,Flooring,200188,28876,Unplanned
+04/14/2001,Lift Repair,872929,28673,Plannned
+03/24/2001,Gardening Instruments,722699,23605,Plannned
+03/23/2001,Garden Flowers,131613,27511,Unplanned
+03/01/2001,Main Building Lamp Replacement,758149,28471,Unplanned
+02/16/2001,Washroom Repair,97037,26543,Unplanned
+02/06/2001,Wiring,433306,29101,Plannned
+01/11/2001,Chemical for artifact conservation,843911,30385,Plannned
+12/22/2000,Whitewash,674586,30337,Plannned
+12/22/2000,Main Gate Replacement,875209,29938,Plannned
+12/16/2000,Wiring,13105,24837,Unplanned
+11/21/2000,Whitewash,126187,31898,Planned
+11/11/2000,Whitewash,100685,26390,Plannned
+09/29/2000,Wiring,110580,26915,Plannned
+09/22/2000,Gardening Instruments,181367,31887,Plannned
+09/19/2000,Wiring,29913,30826,Unplanned
+09/05/2000,Main Building Lamp Replacement,542206,31969,Plannned
+08/12/2000,Washroom Repair,449240,27864,Plannned
+07/15/2000,Lift Repair,149883,31103,Unplanned
+06/22/2000,Washroom Repair,881079,24285,Plannned
+06/14/2000,Water Tank Service,570848,28620,Plannned
+06/06/2000,Garden Flowers,835185,26328,Unplanned
+05/30/2000,New Furniture,390145,29486,Plannned
+04/06/2000,Chemical for artifact conservation,279362,25903,Plannned
+03/27/2000,Flooring,896018,26331,Plannned
+03/17/2000,Tubelights Repair,567846,23591,Unplanned
+03/15/2000,Main Gate Replacement,640100,24057,Unplanned
+02/24/2000,Flooring,742318,28958,Unplanned
+02/19/2000,Water Tank Service,850632,29698,Plannned
+02/01/2000,Water Tank Service,74841,25997,Plannned
+01/26/2000,Garden Flowers,893956,24797,Unplanned
+01/26/2000,Lift Repair,765429,31205,Plannned
+01/12/2000,Gardening Instruments,330984,30760,Unplanned
+12/28/1999,Flooring,567356,27201,Plannned
+12/09/1999,Ceiling Maintainance,892066,24740,Unplanned
+10/22/1999,Garden Flowers,503147,26707,Plannned
+10/20/1999,Whitewash,164983,25682,Plannned
+10/11/1999,Tubelights Repair,121971,30639,Plannned
+09/02/1999,Gardening Instruments,358629,25387,Unplanned
+08/21/1999,Main Building Lamp Replacement,494537,24927,Unplanned
+08/20/1999,Tubelights Repair,891733,24660,Unplanned
+08/07/1999,Water Dispensor Repair,481588,27864,Plannned
+07/24/1999,Garden Flowers,37517,27216,Plannned
+07/05/1999,Broken Marbel Repair,202913,26224,Unplanned
+06/04/1999,Garden Flowers,619046,30830,Unplanned
+06/04/1999,Ceiling Maintainance,152006,26633,Unplanned
+05/14/1999,Chemical for artifact conservation,200410,26949,Plannned
+04/27/1999,Washroom Fittings,0,30053,Plannned
+04/19/1999,Ceiling Maintainance,862569,30520,Plannned
+04/15/1999,Table repair,552311,29527,Plannned
+04/13/1999,Gardening Instruments,758595,26414,Unplanned
+03/23/1999,Ceiling Maintainance,692581,31756,Planned
+03/06/1999,Garden Flowers,463829,26390,Plannned
+02/19/1999,Washroom Fittings,767803,24168,Unplanned
+01/16/1999,Table repair,775188,30324,Unplanned
+01/07/1999,Washroom Repair,437231,32312,Unplanned
+12/24/1998,New Furniture,516356,23925,Plannned
+12/22/1998,Broken Marbel Repair,51374,25890,Unplanned
+11/26/1998,Water Dispensor Repair,199273,27215,Unplanned
+11/02/1998,Water Dispensor Repair,357257,26992,Plannned
+09/24/1998,Washroom Repair,679366,31637,Unplanned
+09/02/1998,Whitewash,447524,23973,Unplanned
+08/15/1998,Broken Marbel Repair,740254,27113,Plannned
+07/23/1998,Garden Flowers,301702,23944,Plannned
+07/14/1998,Gardening Instruments,81705,31287,Plannned
+07/13/1998,Lift Repair,645498,31457,Unplanned
+06/10/1998,Flooring,364552,29494,Plannned
+06/10/1998,Washroom Repair,364681,32188,Plannned
+05/16/1998,Water Dispensor Repair,114549,26626,Plannned
+03/16/1998,Gardening Instruments,613009,26227,Unplanned
+02/23/1998,Wiring,213736,27701,Plannned
+02/02/1998,Water Tank Service,371244,30320,Plannned
+01/26/1998,New Furniture,640562,32257,Unplanned
+01/03/1998,New Furniture,675029,26020,Plannned
+12/05/1997,Chemical for artifact conservation,675084,23691,Plannned
+12/03/1997,Broken Marbel Repair,233952,28999,Unplanned
+11/27/1997,Main Gate Replacement,162189,24661,Plannned
+11/27/1997,Garden Flowers,268284,29873,Plannned
+11/21/1997,Washroom Fittings,688068,26976,Plannned
+11/10/1997,Washroom Fittings,57763,24977,Unplanned
+10/08/1997,Tubelights Repair,405949,28046,Unplanned
+10/02/1997,Tubelights Repair,140484,25018,Unplanned
+07/12/1997,Main Gate Replacement,336178,28553,Plannned
+06/24/1997,Main Gate Replacement,757554,31017,Plannned
+05/21/1997,Wiring,768906,30159,Unplanned
+05/17/1997,Washroom Fittings,789801,25598,Plannned
+05/17/1997,Chemical for artifact conservation,889599,24749,Unplanned
+05/13/1997,Tubelights Repair,59100,24201,Plannned
+05/12/1997,Water Dispensor Repair,739330,23675,Unplanned
+04/15/1997,Whitewash,329242,28956,Plannned
+04/05/1997,Main Building Lamp Replacement,246981,24374,Plannned
+03/26/1997,Broken Marbel Repair,604560,26343,Plannned
+03/26/1997,Whitewash,25173,30654,Unplanned
+01/27/1997,Chemical for artifact conservation,147977,27396,Unplanned
+12/17/1996,Wiring,612215,27969,Unplanned
+10/22/1996,Gardening Instruments,449342,31861,Plannned
+08/27/1996,Broken Marbel Repair,40039,32153,Plannned
+08/13/1996,Water Tank Service,626378,24861,Unplanned
+05/28/1996,New Furniture,0,26498,Unplanned
+05/01/1996,Water Dispensor Repair,0,26714,Unplanned
+04/09/1996,Lift Repair,0,27450,Plannned
+04/03/1996,Whitewash,0,27022,Plannned
+03/27/1996,Lift Repair,0,24013,Plannned
+02/19/1996,Wiring,634116,26090,Plannned
+01/20/1996,Washroom Fittings,160184,28115,Unplanned
+01/02/1996,Main Gate Replacement,660473,26671,Planned
+12/19/1995,Main Gate Replacement,183091,28779,Plannned
+10/28/1995,Flooring,487758,31251,Unplanned
+09/14/1995,Broken Marbel Repair,206078,30587,Unplanned
+09/04/1995,Washroom Repair,93704,27613,Unplanned
+08/21/1995,Washroom Repair,791881,30254,Plannned
+08/19/1995,New Furniture,726510,30771,Unplanned
+07/29/1995,Wiring,141782,29177,Unplanned
+07/28/1995,Whitewash,148021,29532,Plannned
+07/22/1995,Table repair,224453,24658,Unplanned
+05/13/1995,Wiring,193750,29228,Unplanned
+05/06/1995,Ceiling Maintainance,203206,31973,Plannned
+04/28/1995,Lift Repair,700166,24261,Plannned
+04/14/1995,Broken Marbel Repair,730658,23857,Plannned
+04/10/1995,Tubelights Repair,428684,28169,Unplanned
+03/23/1995,Ceiling Maintainance,406479,28763,Plannned
+03/22/1995,Main Gate Replacement,792194,26521,Plannned
+03/10/1995,Wiring,153098,30588,Plannned
+03/02/1995,Garden Flowers,516629,26349,Unplanned
+02/16/1995,Gardening Instruments,711289,26647,Plannned
+02/04/1995,Gardening Instruments,250293,25422,Plannned
+01/30/1995,Flooring,724508,26936,Unplanned
+01/19/1995,Washroom Repair,0,28829,Plannned
+01/11/1995,Water Tank Service,249290,27748,Plannned
+10/07/1994,New Furniture,879202,25779,Unplanned
+09/28/1994,Gardening Instruments,313582,25939,Plannned
+09/07/1994,Gardening Instruments,306628,25030,Plannned
+09/02/1994,Whitewash,45931,31807,Plannned
+08/19/1994,Lift Repair,579039,29121,Unplanned
+08/05/1994,Wiring,436266,27256,Unplanned
+08/04/1994,Washroom Repair,854990,25459,Unplanned
+07/26/1994,Main Gate Replacement,727591,29077,Plannned
+06/20/1994,Whitewash,306891,26974,Plannned
+06/13/1994,Ceiling Maintainance,231089,29942,Unplanned
+05/16/1994,Lift Repair,356534,23682,Plannned
+05/09/1994,Chemical for artifact conservation,874341,29249,Unplanned
+04/25/1994,Wiring,820035,27444,Plannned
+04/18/1994,Main Gate Replacement,515717,23807,Unplanned
+03/30/1994,Flooring,98265,31683,Plannned
+03/26/1994,Flooring,615456,29271,Plannned
+03/08/1994,Ceiling Maintainance,508408,23570,Plannned
+02/28/1994,Flooring,434913,23482,Unplanned
+01/22/1994,Broken Marbel Repair,853834,30331,Unplanned
+01/03/1994,Water Dispensor Repair,572599,27641,Unplanned
+12/25/1993,Washroom Repair,631110,26261,Plannned
+12/17/1993,Water Dispensor Repair,824188,25534,Plannned
+12/10/1993,Washroom Repair,530324,27812,Unplanned
+11/17/1993,New Furniture,435081,26983,Unplanned
+11/13/1993,Washroom Repair,158613,26877,Unplanned
+11/01/1993,Tubelights Repair,258960,24752,Plannned
+09/03/1993,Main Building Lamp Replacement,730758,23958,Plannned
+08/19/1993,Wiring,57533,27898,Plannned
+08/03/1993,Washroom Fittings,736870,30504,Plannned
+07/31/1993,Flooring,600875,26191,Unplanned
+07/07/1993,New Furniture,833241,30586,Planned
+05/10/1993,Ceiling Maintainance,676174,26637,Plannned
+05/07/1993,Ceiling Maintainance,496206,32107,Plannned
+05/04/1993,New Furniture,560740,24781,Plannned
+04/20/1993,Broken Marbel Repair,841795,31384,Unplanned
+04/16/1993,Chemical for artifact conservation,274980,24914,Plannned
+04/05/1993,Washroom Fittings,533669,23558,Plannned
+03/20/1993,Whitewash,403949,25789,Unplanned
+03/04/1993,Gardening Instruments,719398,31493,Plannned
+02/25/1993,Tubelights Repair,403982,26472,Plannned
+01/26/1993,Chemical for artifact conservation,48222,27600,Unplanned
+01/08/1993,Ceiling Maintainance,84650,28741,Plannned
+12/29/1992,Washroom Repair,338978,30981,Plannned
+12/26/1992,Water Dispensor Repair,577872,24936,Plannned
+12/17/1992,Gardening Instruments,681430,31174,Unplanned
+12/14/1992,Whitewash,340089,31942,Unplanned
+11/24/1992,Broken Marbel Repair,885743,31108,Unplanned
+11/07/1992,Washroom Fittings,892399,27038,Plannned
+10/22/1992,Washroom Repair,568776,30427,Plannned
+09/28/1992,Main Building Lamp Replacement,90391,29386,Unplanned
+09/18/1992,Broken Marbel Repair,98236,31356,Plannned
+09/09/1992,Gardening Instruments,394140,34985792849,Unplanned
+08/12/1992,Washroom Repair,281615,30035,Plannned
+07/06/1992,Washroom Repair,183984,25015,Unplanned
+06/22/1992,Whitewash,452376,27512,Plannned
+06/20/1992,Lift Repair,691549,25935,Plannned
+05/25/1992,Water Dispensor Repair,671442,29686,Plannned
+05/16/1992,Tubelights Repair,599565,31541,Unplanned
+04/20/1992,Washroom Fittings,104563,30687,Unplanned
+04/18/1992,Table repair,293231,25211,Unplanned
+04/16/1992,Flooring,371201,28986,Plannned
+04/15/1992,Chemical for artifact conservation,596276,24214,Plannned
+04/09/1992,Water Tank Service,753513,27409,Unplanned
+03/26/1992,Ceiling Maintainance,423541,28829,Unplanned
+03/23/1992,Tubelights Repair,708895,24275,Unplanned
+03/14/1992,Lift Repair,30334,31649,Plannned
+02/10/1992,New Furniture,215704,29832,Plannned
+02/10/1992,Flooring,698379,24978,Plannned
+02/03/1992,Lift Repair,645570,27684,Plannned
+01/06/1992,Main Gate Replacement,885206,31400,Unplanned
+11/16/1991,Main Building Lamp Replacement,667384,27429,Planned
+11/11/1991,Main Building Lamp Replacement,137248,26075,Plannned
+10/28/1991,Garden Flowers,135581,32221,Unplanned
+10/12/1991,Table repair,492235,26595,Unplanned
+09/14/1991,Table repair,820791,29210,Unplanned
+08/28/1991,Water Dispensor Repair,439528,25320,Plannned
+08/14/1991,New Furniture,459073,32298,Unplanned
+08/03/1991,Whitewash,687465,24106,Unplanned
+07/09/1991,Water Tank Service,207284,29143,Plannned
+06/25/1991,Table repair,165617,25794,Unplanned
+06/22/1991,Chemical for artifact conservation,394246,29959,Unplanned
+06/10/1991,Whitewash,341635,31265,Plannned
+06/03/1991,Lift Repair,203620,29890,Plannned
+05/16/1991,Wiring,235309,31535,Plannned
+04/24/1991,Whitewash,45211,25860,Unplanned
+03/15/1991,Broken Marbel Repair,610871,24206,Plannned
+03/09/1991,Tubelights Repair,487977,28728,Plannned
+03/02/1991,Main Gate Replacement,785343,30317,Plannned
+02/01/1991,Lift Repair,504609,30989,Unplanned
+01/29/1991,Broken Marbel Repair,322915,30768,Plannned
+01/25/1991,Wiring,37947,31229,Plannned
+01/02/1991,Main Building Lamp Replacement,294766,25241,Unplanned
+12/17/1990,Whitewash,578122,31330,Plannned
+12/11/1990,Table repair,66268,24124,Plannned
+11/21/1990,Water Tank Service,631679,28215,Unplanned
+11/15/1990,Water Tank Service,209189,27141,Plannned
+11/09/1990,Broken Marbel Repair,663638,29347,Plannned
+10/02/1990,Whitewash,257792,23790,Plannned
+09/17/1990,Gardening Instruments,236501,24871,Unplanned
+08/18/1990,Wiring,367629,28060,Unplanned
+07/18/1990,Washroom Fittings,645182,27931,Unplanned
+07/17/1990,Ceiling Maintainance,180029,25600,Plannned
+07/16/1990,Wiring,176945,31719,Plannned
+07/03/1990,New Furniture,600426,27880,Unplanned
+07/02/1990,Water Dispensor Repair,399293,28516,Plannned
+06/26/1990,Whitewash,531067,25952,Unplanned
+06/12/1990,Gardening Instruments,617270,30989,Plannned
+05/12/1990,Flooring,352574,26742,Unplanned
+04/07/1990,Main Gate Replacement,560071,28907,Plannned
+03/17/1990,Washroom Repair,237856927693,30417,Plannned
+03/05/1990,New Furniture,344913,27826,Plannned
+02/24/1990,Washroom Repair,71540,29392,Unplanned
+02/19/1990,Table repair,377363,24566,Unplanned
+01/12/1990,Table repair,627999,27667,Unplanned
+12/25/1989,Whitewash,45585,27200,Plannned
+12/21/1989,Lift Repair,192408,26437,Plannned
+12/21/1989,Gardening Instruments,898494,31508,Unplanned
+12/16/1989,Broken Marbel Repair,40912,29153,Unplanned
+11/01/1989,Table repair,377313,27466,Unplanned
+10/24/1989,Washroom Fittings,501929,32105,Plannned
+10/05/1989,Washroom Repair,830764,24838,Plannned
+07/19/1989,Washroom Repair,521884,26679,Plannned
+04/25/1989,Chemical for artifact conservation,581621,28176,Plannned
+04/24/1989,Broken Marbel Repair,572205,23882,Unplanned
+04/15/1989,Lift Repair,839311,27360,Planned
+04/07/1989,Washroom Repair,585280,27677,Plannned
+03/13/1989,Washroom Repair,501929,24801,Unplanned
+02/17/1989,Main Building Lamp Replacement,830764,26346,Unplanned
+02/16/1989,Main Gate Replacement,521884,24792,Unplanned
+02/06/1989,Washroom Repair,581621,24696,Plannned
+01/26/1989,Main Building Lamp Replacement,572205,25926,Unplanned
+01/07/1989,Chemical for artifact conservation,839311,23725,Unplanned
+12/05/1988,Main Gate Replacement,585280,26073,Plannned
+11/18/1988,Whitewash,521884,27850,Unplanned
+10/12/1988,Garden Flowers,581621,25228,Unplanned
+08/12/1988,Ceiling Maintainance,572205,26280,Plannned
+07/30/1988,Flooring,839311,24261,Plannned
+07/22/1988,Ceiling Maintainance,585280,28712,Plannned
+07/08/1988,Water Tank Service,811662,30659,Unplanned
+06/15/1988,Wiring,473116,30426,Plannned
+06/02/1988,Garden Flowers,55462,31773,Plannned
+04/09/1988,Gardening Instruments,725541,29256,Plannned
+04/09/1988,Table repair,871488,31626,Unplanned
+03/26/1988,Flooring,684225,28822,Plannned
+03/11/1988,Ceiling Maintainance,105273,25142,Plannned
+02/15/1988,Flooring,395783,32035,Unplanned
+01/25/1988,New Furniture,683446,25269,Plannned
+01/23/1988,Water Dispensor Repair,788711,23660,Plannned
+01/15/1988,Lift Repair,772339,31476,Unplanned
+12/17/1987,Whitewash,676128,27437,Plannned
+12/08/1987,Gardening Instruments,277851,27408,Plannned
+12/07/1987,Garden Flowers,485320,29485,Plannned
+11/21/1987,Chemical for artifact conservation,337297,29147,Unplanned
+10/22/1987,Lift Repair,748076,30083,Unplanned
+10/19/1987,Wiring,625338,32013,Unplanned
+10/13/1987,Wiring,120070,29394,Plannned
+10/08/1987,Ceiling Maintainance,686436,32078,Plannned
+10/02/1987,Water Tank Service,777324,26120,Unplanned
+09/22/1987,Chemical for artifact conservation,539008,24410,Plannned
+08/18/1987,Water Dispensor Repair,3974659279,27287,Unplanned
+08/06/1987,Main Gate Replacement,72816,24502,Plannned
+08/06/1987,Chemical for artifact conservation,812352,23923,Unplanned
+06/23/1987,Water Dispensor Repair,679659,32093,Plannned
+06/17/1987,Water Tank Service,542708,30851,Plannned
+06/13/1987,Broken Marbel Repair,93922,29710,Plannned
+05/05/1987,Water Tank Service,227949,28043,Unplanned
+04/29/1987,Main Gate Replacement,524389,30306,Unplanned
+04/23/1987,Flooring,617324,24087,Unplanned
+04/11/1987,Garden Flowers,780150,30146,Plannned
+03/04/1987,Table repair,492707,31792,Plannned
+03/03/1987,Main Building Lamp Replacement,198876,32012,Unplanned
+03/02/1987,Washroom Fittings,718558,26381,Unplanned
+02/02/1987,Broken Marbel Repair,161577,23605,Unplanned
+01/29/1987,Main Gate Replacement,654384,27746,Plannned
+01/23/1987,Flooring,348150,28122,Plannned
+01/22/1987,Flooring,848048,31345,Plannned
+01/14/1987,Water Tank Service,607495,31550,Plannned
+01/09/1987,Tubelights Repair,491105,28593,Unplanned
+12/20/1986,Broken Marbel Repair,224706,29705,Planned
+12/09/1986,Table repair,393348,27993,Plannned
+11/27/1986,Water Dispensor Repair,75354,29973,Plannned
+11/26/1986,Water Tank Service,732689,25619,Plannned
+11/25/1986,Gardening Instruments,639004,30146,Unplanned
+11/04/1986,Flooring,532242,24442,Plannned
+10/18/1986,Water Dispensor Repair,833991,28512,Plannned
+09/11/1986,Water Tank Service,757780,23775,Unplanned
+09/05/1986,Washroom Fittings,292519,32162,Plannned
+08/12/1986,Washroom Repair,393249,28123,Plannned
+07/18/1986,Lift Repair,462284,23847,Unplanned
+07/07/1986,Main Building Lamp Replacement,896976976,31368,Plannned
+06/30/1986,Flooring,152707,28957,Plannned
+06/19/1986,Water Tank Service,344495,31272,Plannned
+06/13/1986,Water Dispensor Repair,445455,29582,Unplanned
+05/27/1986,Main Gate Replacement,94,28298,Unplanned
+04/30/1986,Main Building Lamp Replacement,544985,31729,Unplanned
+04/04/1986,Water Dispensor Repair,463873,28794,Plannned
+03/31/1986,Ceiling Maintainance,468192,28913,Plannned
+03/13/1986,Lift Repair,873486,29733,Unplanned
+03/10/1986,Chemical for artifact conservation,644051,27926,Plannned
+03/04/1986,Washroom Fittings,205197,26458,Unplanned
+03/04/1986,Ceiling Maintainance,26382,30632,Plannned
+02/06/1986,Water Dispensor Repair,136982,26025,Unplanned
+01/28/1986,Ceiling Maintainance,452060,29465,Plannned
+01/22/1986,Ceiling Maintainance,801441,29951,Plannned
+12/28/1985,Washroom Fittings,765402,27912,Plannned
+12/24/1985,Washroom Fittings,526480,29978,Unplanned
+11/30/1985,Tubelights Repair,802458,24055,Unplanned
+11/20/1985,Garden Flowers,152593,31529,Unplanned
+11/12/1985,Chemical for artifact conservation,387853,30728,Plannned
+10/24/1985,Chemical for artifact conservation,498228,30239,Plannned
+10/12/1985,Gardening Instruments,194911,30271,Unplanned
+09/11/1985,Chemical for artifact conservation,158354,32146,Unplanned
+09/02/1985,Tubelights Repair,339434,25011,Unplanned
+08/06/1985,Tubelights Repair,432866,25415,Plannned
+08/02/1985,Garden Flowers,670638,25359,Plannned
+07/29/1985,Ceiling Maintainance,151246,24305,Plannned
+07/25/1985,Washroom Repair,741656,30430,Plannned
+07/18/1985,Water Dispensor Repair,794172,28473648273,Unplanned
+07/09/1985,Wiring,785064,25334,Planned
+07/02/1985,Washroom Fittings,439533,25531,Plannned
+06/20/1985,Table repair,280318,29151,Unplanned
+06/12/1985,Table repair,799257,29337,Unplanned
+06/08/1985,Garden Flowers,413229,30708,Unplanned
+06/01/1985,Water Tank Service,679847,24307,Plannned
+04/26/1985,New Furniture,264897,25372,Unplanned
+03/30/1985,Whitewash,282403,24000,Unplanned
+03/28/1985,Table repair,771335,32304,Plannned
+03/27/1985,Lift Repair,603102,28429,Unplanned
+03/25/1985,Water Tank Service,525382,24084,Unplanned
+02/22/1985,Washroom Repair,339172,31781,Plannned
+02/20/1985,Chemical for artifact conservation,331841,26941,Plannned
+02/18/1985,Washroom Repair,199547,31601,Plannned
+01/14/1985,Wiring,581601,31384,Unplanned
+01/12/1985,Broken Marbel Repair,730560,30225,Plannned
+01/02/1985,Washroom Fittings,46631,27064,Plannned
+12/29/1984,Broken Marbel Repair,102942,30508,Plannned
+12/25/1984,Table repair,874833,28667,Unplanned
+12/21/1984,Gardening Instruments,834081,25515,Plannned
+12/10/1984,Wiring,514919,27906,Plannned
+11/16/1984,Water Dispensor Repair,85797,27197,Unplanned
+11/14/1984,Washroom Repair,102780,29057,Plannned
+10/23/1984,Broken Marbel Repair,805105,24153,Plannned
+10/13/1984,Ceiling Maintainance,585197,30511,Unplanned
+10/09/1984,Wiring,330680,30798,Plannned
+10/06/1984,Garden Flowers,269427,28966,Plannned
+10/05/1984,Wiring,79860,27767,Plannned
+10/03/1984,Broken Marbel Repair,692765,23931,Unplanned
+09/29/1984,Tubelights Repair,282813,29852,Unplanned
+09/15/1984,Washroom Fittings,629657,25965,Unplanned
+09/14/1984,New Furniture,0,26023,Plannned
+08/16/1984,Table repair,818568,29934,Plannned
+07/25/1984,Flooring,523424,32081,Unplanned
+07/17/1984,Water Tank Service,812358,28766,Plannned
+07/03/1984,Water Dispensor Repair,546063,24855,Unplanned
+06/11/1984,Broken Marbel Repair,661946,24120,Plannned
+04/05/1984,Whitewash,355131,28144,Unplanned
+04/03/1984,Chemical for artifact conservation,273092,25596,Plannned
+03/15/1984,Wiring,689831,27856,Plannned
+03/09/1984,Table repair,28532,24340,Plannned
+03/02/1984,Washroom Repair,871030,27348,Unplanned
+02/24/1984,Lift Repair,669851,25597,Unplanned
+02/21/1984,Main Gate Replacement,795815,31199,Unplanned
+02/17/1984,New Furniture,606877,30330,Plannned
+02/02/1984,Water Dispensor Repair,766876,23466,Plannned
+01/31/1984,Washroom Fittings,32718,28572,Unplanned
+01/20/1984,Tubelights Repair,236136,29786,Unplanned
+01/12/1984,Broken Marbel Repair,859618,25433,Unplanned
+12/30/1983,Washroom Fittings,620369,23685,Plannned
+12/21/1983,Chemical for artifact conservation,521820,25006,Plannned
+12/08/1983,Table repair,849370,28996,Plannned
+11/26/1983,New Furniture,388328,32068,Plannned
+11/26/1983,Water Dispensor Repair,69767,26645,Unplanned
+10/07/1983,Tubelights Repair,767936,24780,Planned
+10/06/1983,Table repair,335835,31845,Plannned
+10/06/1983,Whitewash,217157,26879,Unplanned
+10/04/1983,Water Tank Service,479785,28656,Unplanned
+09/27/1983,Table repair,197174,25910,Unplanned
+09/15/1983,Lift Repair,889738,25360,Plannned
+09/14/1983,Wiring,693455,29625,Unplanned
+08/30/1983,Water Tank Service,680867,24763,Unplanned
+08/17/1983,Water Dispensor Repair,101321,25852,Plannned
+08/10/1983,Water Dispensor Repair,623239,31418,Unplanned
+07/13/1983,Lift Repair,582698,27805,Unplanned
+07/05/1983,Flooring,436475,25560,Plannned
+06/25/1983,Washroom Repair,675708,25307,Plannned
+06/25/1983,Water Dispensor Repair,193467,26260,Plannned
+06/07/1983,Main Building Lamp Replacement,135032,28453,Unplanned
+05/31/1983,Washroom Repair,61723,28368,Plannned
+05/31/1983,Main Gate Replacement,182970,26391,Plannned
+05/24/1983,Gardening Instruments,504509,23650,Plannned
+05/12/1983,Flooring,250274,31941,Unplanned
+04/27/1983,Garden Flowers,258369,32262,Plannned
+04/25/1983,Garden Flowers,716402,27343,Plannned
+04/14/1983,Water Tank Service,64693,26347,Unplanned
+04/08/1983,Water Dispensor Repair,0,24192,Plannned
+02/15/1983,Whitewash,164461,27399,Plannned
+01/12/1983,Washroom Fittings,152474,29007,Unplanned
+01/06/1983,Water Tank Service,395347,23639,Plannned
+12/23/1982,Table repair,674396,23856,Plannned
+12/20/1982,Lift Repair,493298,31852,Plannned
+12/15/1982,Water Tank Service,830415,25131,Unplanned
+12/09/1982,Washroom Fittings,519435,31008,Unplanned
+11/12/1982,Ceiling Maintainance,648870,28252,Unplanned
+11/01/1982,Main Building Lamp Replacement,278141,23848,Plannned
+10/20/1982,Washroom Fittings,372562,24629,Plannned
+10/13/1982,Garden Flowers,349635,28684,Unplanned
+09/17/1982,Gardening Instruments,679046,27390,Plannned
+08/30/1982,Table repair,382863,27629,Unplanned
+08/17/1982,Water Tank Service,282871,23875,Plannned
+07/23/1982,Washroom Repair,241837,29994,Unplanned
+07/09/1982,Main Building Lamp Replacement,205497,26988,Plannned
+06/22/1982,Chemical for artifact conservation,642328,31389,Plannned
+06/03/1982,Water Tank Service,485980,25979,Plannned
+04/24/1982,Gardening Instruments,253618,31650,Unplanned
+04/22/1982,Gardening Instruments,84720,30302,Unplanned
+04/12/1982,Broken Marbel Repair,481074,25653,Unplanned
+03/24/1982,Ceiling Maintainance,704049,29875,Plannned
+03/12/1982,Garden Flowers,899871,29103,Plannned
+02/17/1982,Main Building Lamp Replacement,214045,29295,Unplanned
+01/25/1982,Main Gate Replacement,623810,24684,Unplanned
+01/23/1982,Flooring,256638,29012,Unplanned
+01/13/1982,Garden Flowers,89179,26207,Plannned
+01/04/1982,Flooring,510477,23736,Plannned
+01/02/1982,Washroom Fittings,888423,29838,Plannned
+11/27/1981,Chemical for artifact conservation,668760,23797,Plannned
+11/19/1981,Ceiling Maintainance,630435,32225,Unplanned
+11/17/1981,Main Building Lamp Replacement,0,27122,Planned
+11/11/1981,Water Dispensor Repair,283006,27203,Plannned
+11/07/1981,Gardening Instruments,738427,23479,Plannned
+10/19/1981,Ceiling Maintainance,664755,31389,Plannned
+10/19/1981,New Furniture,163764,28488,Unplanned
+10/08/1981,Water Dispensor Repair,646221,24057,Plannned
+09/25/1981,Gardening Instruments,376884,25550,Plannned
+09/24/1981,Wiring,595209,29053,Unplanned
+09/12/1981,Wiring,496592,25316,Plannned
+08/31/1981,Garden Flowers,207395,31713,Plannned
+08/11/1981,Lift Repair,341704,31290,Unplanned
+07/31/1981,Main Building Lamp Replacement,648460,32042,Plannned
+07/02/1981,Tubelights Repair,755712,30570,Plannned
+06/10/1981,Wiring,774186,29534,Plannned
+06/06/1981,Main Gate Replacement,735596,23704,Unplanned
+06/02/1981,Broken Marbel Repair,181010,28993,Unplanned
+05/23/1981,Whitewash,165146,30495,Unplanned
+05/19/1981,Garden Flowers,840476,30859,Plannned
+05/16/1981,Water Tank Service,790621,24082,Plannned
+04/30/1981,Garden Flowers,544647,23992,Unplanned
+04/11/1981,Broken Marbel Repair,23623423524,26763,Plannned
+03/23/1981,Washroom Repair,124639,27692,Unplanned
+03/14/1981,Lift Repair,72307,28738976234,Plannned
+02/06/1981,Chemical for artifact conservation,837179,24600,Unplanned
+01/12/1981,Ceiling Maintainance,790381,25295,Plannned
+12/30/1980,Water Dispensor Repair,837668,28956,Plannned
+12/29/1980,Broken Marbel Repair,553936,32221,Plannned
+12/27/1980,Wiring,442311,27753,Unplanned
+12/19/1980,Washroom Repair,610364,31725,Unplanned
+12/12/1980,Gardening Instruments,578392,30345,Unplanned
+11/28/1980,Main Building Lamp Replacement,671113,24448,Plannned
+11/26/1980,Wiring,864103,31245,Plannned
+11/21/1980,Garden Flowers,132224,27147,Unplanned
+11/20/1980,Washroom Repair,613415,30330,Unplanned
+11/13/1980,Washroom Fittings,63726,28187,Unplanned
+10/24/1980,Chemical for artifact conservation,9636,25041,Plannned
+08/28/1980,Water Dispensor Repair,9070,31562,Plannned
+08/22/1980,Main Building Lamp Replacement,9117,27695,Plannned
+08/07/1980,Broken Marbel Repair,9477,28410,Plannned
+07/21/1980,Wiring,9327,26606,Unplanned
+06/19/1980,New Furniture,9123,27872,Planned
+06/02/1980,Whitewash,9186,30312,Plannned
+05/06/1980,Washroom Repair,9779,28266,Unplanned
+05/02/1980,Main Building Lamp Replacement,9781,32022,Unplanned
+05/01/1980,Washroom Fittings,9220,26600,Unplanned
+04/02/1980,Main Gate Replacement,9530,24298,Plannned
+03/31/1980,Water Tank Service,9455,24216,Unplanned
+03/25/1980,Wiring,0,26377,Unplanned
+02/26/1980,Washroom Repair,9348,27288,Plannned
+02/04/1980,Whitewash,9440,26645,Unplanned
+01/01/1980,Wiring,9627,32059,Unplanned
+11/26/1979,Main Building Lamp Replacement,9110,26518,Plannned
+11/14/1979,Garden Flowers,9396,28011,Plannned
+09/01/1979,Water Dispensor Repair,9118,24119,Plannned
+08/23/1979,New Furniture,9532,29289,Unplanned
+08/18/1979,New Furniture,9667,24957,Plannned
+08/13/1979,Lift Repair,9637,31314,Plannned
+08/09/1979,Water Dispensor Repair,9506,27608,Plannned
+07/24/1979,Lift Repair,9133,31398,Unplanned
+07/20/1979,Lift Repair,9320,31025,Plannned
+07/20/1979,Chemical for artifact conservation,9128,25803,Plannned
+07/16/1979,Broken Marbel Repair,9890,30106,Unplanned
+06/14/1979,Whitewash,9020,25110,Plannned
+06/08/1979,Water Tank Service,9936,24278,Plannned
+06/02/1979,Gardening Instruments,9024,27553,Unplanned
+05/28/1979,Main Gate Replacement,9741,23932,Plannned
+05/15/1979,Tubelights Repair,9080,28187,Plannned
+05/09/1979,Ceiling Maintainance,9063,30258,Plannned
